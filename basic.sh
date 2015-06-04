@@ -1,0 +1,26 @@
+#!/bin/bash
+
+###
+# Cremalab basic new workstation set up script
+###
+
+# homebrew
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+# homebrew cask
+brew install caskroom/cask/brew-cask
+
+# git
+brew install git
+
+# harvest
+brew cask install harvest
+
+# slack
+brew cask install slack
+
+# 1password
+brew cask install 1password
+
+# dropbox
+brew cask install dropbox
