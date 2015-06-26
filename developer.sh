@@ -82,3 +82,7 @@ brew install docker-compose
 # postgres
 #  required to build Ruby postgresql gem
 brew install postgres
+
+# node
+#  NodeJS. Pretty much unavoidable.
+brew install node
