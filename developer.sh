@@ -74,3 +74,7 @@ brew cask install github
 # wget
 #  command line http file downloader. I always forget this isn't installed by default.
 brew install wget
+
+# docker-compose (fig)
+#  manage sets of docker containers
+brew install docker-compose
