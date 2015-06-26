@@ -78,3 +78,7 @@ brew install wget
 # docker-compose (fig)
 #  manage sets of docker containers
 brew install docker-compose
+
+# postgres
+#  required to build Ruby postgresql gem
+brew install postgres
