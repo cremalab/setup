@@ -20,7 +20,7 @@ brew install tmux
 
 # Sublime text
 #  The editor.
-brew cask install sublime
+brew cask install sublime-text
 
 # Firefox
 #  Browser
