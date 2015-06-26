@@ -70,3 +70,7 @@ brew install emacs
 # github client
 #  gui github client; handy for some stuff even if you prefer git on the command line
 brew cask install github
+
+# wget
+#  command line http file downloader. I always forget this isn't installed by default.
+brew install wget
