@@ -7,6 +7,10 @@
 # homebrew
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
+# update homebrew and its package list
+brew update
+brew upgrade
+
 # homebrew cask
 brew install caskroom/cask/brew-cask
 
