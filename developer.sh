@@ -18,9 +18,11 @@ brew cask install iterm2
 #  other windows, all kinds of fun stuff
 brew install tmux
 
-# Sublime text
-#  The editor.
-brew cask install sublime-text
+# Atom
+#  Text editor.
+# Alternative:
+#brew cask install sublime-text
+brew cask install atom
 
 # Firefox
 #  Browser
