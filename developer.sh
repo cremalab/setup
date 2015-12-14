@@ -48,13 +48,10 @@ brew cask install virtualbox
 #  command line management and provisioning of headless Virtualbox VMs
 brew cask install vagrant
 
-# ansible
-#  low-prerequisite server provisioner, handy for vagrant boxes, among other things
-brew install ansible
-
-# boot2docker
+# boot2docker^wdocker-machine
 #  run docker containers in a local VM using ordinary docker commands
-brew install boot2docker
+#brew install boot2docker
+brew install docker-machine
 
 # Heroku toolbelt
 #  command line tool for Heroku
@@ -88,3 +85,7 @@ brew install postgres
 # node
 #  NodeJS. Pretty much unavoidable.
 brew install node
+
+# nvm
+#  Like RVM but Webscale™. (rvm for node)
+brew install nvm
