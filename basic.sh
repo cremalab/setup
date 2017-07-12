@@ -12,7 +12,7 @@ brew update
 brew upgrade
 
 # homebrew cask
-brew install caskroom/cask/brew-cask
+brew tap caskroom/cask
 
 # git
 brew install git
