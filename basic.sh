@@ -13,6 +13,8 @@ brew upgrade
 
 # homebrew cask
 brew install caskroom/cask/brew-cask
+# the above fails out for me. I then ran the following command below to get cask installed
+brew install cask
 
 # git
 brew install git
